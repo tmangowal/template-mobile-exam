@@ -54,7 +54,7 @@ const TodoListScreen = props => {
     return (
         <Container>
             <Header>
-                <Title style={{ marginTop: 10 }}>JC10's Todo App</Title>
+                <Title style={{ marginTop: 10 }}>See you next time</Title>
             </Header>
             <Card >
                     <CardItem style={{ backgroundColor: 'navy' }} header>
@@ -66,7 +66,7 @@ const TodoListScreen = props => {
                         </View>
                     </CardItem>
                     <CardItem style={{ backgroundColor: 'navy', justifyContent: 'center' }}>
-                        <Button onPress={onAddTodo} transparent icon style={{ borderRadius: '50%', borderColor: 'white', borderWidth: 1, backgroundColor: '#ee4b77' }} >
+                        <Button onPress={onAddTodo} transparent icon style={{ borderRadius: 50, borderColor: 'white', borderWidth: 1, backgroundColor: '#ee4b77' }} >
                             <Icon type='AntDesign' style={{ color: 'white' }} name='plus' />
                         </Button>
                     </CardItem>

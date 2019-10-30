@@ -1,6 +1,6 @@
 import React from 'react'
-import {} from 'react-native'
-import { View, Container, Content, Card, CardItem, Text, H1, Button, Body } from 'native-base'
+import { Text } from 'react-native'
+import { View, Container, Content, Card, CardItem, H1, Button, Body } from 'native-base'
 
 const TodoDetailScreen = props => {
     return (
@@ -12,7 +12,7 @@ const TodoDetailScreen = props => {
                             <H1>
                                 Todo: 
                             </H1>
-                            <Text note>
+                            <Text>
                                 ID: 
                             </Text>
                         </Body>
