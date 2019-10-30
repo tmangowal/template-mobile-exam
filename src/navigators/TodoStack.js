@@ -8,8 +8,8 @@ import TodoDetailScreen from '../components/TodoDetailScreen'
 
 const TodoStack = createAppContainer(
     createStackNavigator({
-        TodoDetailScreen,
         TodoListScreen,
+        TodoDetailScreen,
     },
     {
         headerMode: 'none'
