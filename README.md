@@ -8,3 +8,28 @@
 
 
 ### Good luck! Sampai jumpa di final presentation.
+
+
+
+
+
+
+
+# BONUS POINTS!!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRl6Z7cxAA-r3ke08rMloFqlPubpBv9xSmahICj29DR9rFr-25j
